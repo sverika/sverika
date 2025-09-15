@@ -6,9 +6,7 @@ Me chamo Erika Santana Veloso, tenho 19 anos e sou natural do Pará. Concluí o 
 
 <p align="left">
     >
-    </a>
-    
-    </a>
+    Aprendendo e Registrando alguns projetos
 </p>
 
 ---
