@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Erika Santana
+# 👩🏽‍💻 Erika Santana
 
 **`Estudante de Tecnologia`**
 
