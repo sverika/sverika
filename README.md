@@ -2,7 +2,7 @@
 
 **`Estudante de Tecnologia`**
 
-Me chamo Erika Santana Veloso, tenho 19 anos e sou natural do Pará. Concluí o ensino médio na Escola Estadual Prof. Acy de Jesus Neves de Barros Pereira. Atualmente, estou cursando Engenharia da Computação na Unifesspa. Sou apaixonada por tecnologia.
+Me chamo Erika Santana Veloso, tenho 19 anos. Atualmente, estou cursando Engenharia da Computação na Unifesspa.
 
 <p align="left">
     >
