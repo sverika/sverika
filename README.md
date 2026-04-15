@@ -51,7 +51,7 @@ Me chamo Erika Santana Veloso, tenho 19 anos. Atualmente, estou cursando Engenha
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=sverika&show_icons=true&theme=tokyonight&&include_all_commits=true&locale=pt-br"
+    src="https://github-readme-stats.vercel.app/api?username=sverika&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
 " 
   />
 
